@@ -1,4 +1,4 @@
 {
   "installDependencies": true,
-  "startCommand": "npm run dev -- --webpack"
+  "startCommand": "npx next build --webpack && npm start"
 }
